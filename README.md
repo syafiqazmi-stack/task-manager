@@ -39,6 +39,10 @@ Each phase must be completed before proceeding to the next stage.
 
 ## Team Members
 - **Syafiq Azmi** – Project Manager / Developer
+- **Naufal gani** – Developer
+- **Fanuel Natanael** – Developer
+- **Gibran** – Developer
+- **Muhammad Rizky** – Developer
 
 ---
 
